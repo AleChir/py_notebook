@@ -1,0 +1,5 @@
+{
+  "Temperature": { "MI": 15.3, "TO": 16.5, "NA": 22},
+  "Humidity": { "MI": 52, "TO": null, "NA": 54},
+  "Wind": {"MI": 3.5, "TO": 2.5, "NA": null}
+}
