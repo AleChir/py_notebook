@@ -1,0 +1,7 @@
+product,quantity,price,tax,available
+a,155,29.99,10,True
+b,78,19.99,15,False
+c,120,50.00,20,True 
+d,3,1189.99,20,True 
+e,85,139.99,5,False 
+f,42,24.99,15,True 
